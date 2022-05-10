@@ -46,5 +46,25 @@
     "karma-jasmine-html-reporter": "~1.7.0",
     "semantic-release": "^18.0.1",
     "typescript": "~4.5.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog",
+      "disableScopeLowerCase": false,
+      "disableSubjectLowerCase": false,
+      "maxHeaderWidth": 100,
+      "maxLineWidth": 100,
+      "defaultType": "",
+      "defaultScope": "",
+      "defaultSubject": "",
+      "defaultBody": "",
+      "defaultIssues": "",
+      "types": {
+        "feat": {
+          "description": "A new feature",
+          "title": "Features"
+        }
+      }
+    }
   }
 }
