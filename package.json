@@ -35,6 +35,7 @@
     "@semantic-release/release-notes-generator": "^10.0.3",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
+    "cz-conventional-changelog": "^3.3.0",
     "git-branch": "^2.0.1",
     "git-user-email": "^0.2.2",
     "git-user-name": "^2.0.0",
