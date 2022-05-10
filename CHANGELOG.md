@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/pavelpiha/test-semantic-release/compare/v1.0.0...v2.0.0) (2022-05-10)
+
+
+### Features
+
+* **app:** remove redundant html code ([efe6607](https://github.com/pavelpiha/test-semantic-release/commit/efe66079963c3e79743f17feb0ff84638c2539ce))
+
+
+### BREAKING CHANGES
+
+* **app:** clean app.component.html file
+
 # 1.0.0 (2022-05-10)
 
 
