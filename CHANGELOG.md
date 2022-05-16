@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-feature-test.1](https://github.com/pavelpiha/test-semantic-release/compare/v1.0.0...v2.0.0-feature-test.1) (2022-05-16)
+
+
+### Bug Fixes
+
+* **html:** fix html ([52cc129](https://github.com/pavelpiha/test-semantic-release/commit/52cc12988b51aa7377e248ca35604c25a68f2199))
+
+
+### Features
+
+* **app:** add test feature ([183e76e](https://github.com/pavelpiha/test-semantic-release/commit/183e76ea56743496800bc81dc9815644145f5e88))
+* **app:** remove redundant html code ([efe6607](https://github.com/pavelpiha/test-semantic-release/commit/efe66079963c3e79743f17feb0ff84638c2539ce))
+
+
+### BREAKING CHANGES
+
+* **app:** clean app.component.html file
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.0.0 (2022-05-10)
 
 

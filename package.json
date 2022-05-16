@@ -1,6 +1,6 @@
 {
   "name": "test-semantic-release",
-  "version": "1.0.0",
+  "version": "2.0.0-feature-test.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
