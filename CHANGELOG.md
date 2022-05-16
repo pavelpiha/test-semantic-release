@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-feature-test.2](https://github.com/pavelpiha/test-semantic-release/compare/v2.0.0-feature-test.1...v2.0.0-feature-test.2) (2022-05-16)
+
+
+### Features
+
+* **app:** add new feture 2 ([a67af93](https://github.com/pavelpiha/test-semantic-release/commit/a67af930ed655d0cf5eba1dd6035ea555ed57c7e))
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0-feature-test.1](https://github.com/pavelpiha/test-semantic-release/compare/v1.0.0...v2.0.0-feature-test.1) (2022-05-16)
 
 
