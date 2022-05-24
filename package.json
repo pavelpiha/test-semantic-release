@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "release": "semantic-release --no-ci"
+    "release": "semantic-release --no-ci",
+    "commit": "git add . && cz && git push origin main"
   },
   "private": true,
   "dependencies": {
