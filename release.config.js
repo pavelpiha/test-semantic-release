@@ -23,21 +23,13 @@ module.exports = {
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    [
-      "@semantic-release/changelog",
-    ],
+    "@semantic-release/changelog",
     [
       "@semantic-release/npm",
       {
         npmPublish: false,
       },
     ],
-    // [
-    //   "@semantic-release/exec",
-    //   {
-    //     prepareCmd: "node build-version.js ${nextRelease.version}",
-    //   },
-    // ],
     [
       "@semantic-release/git",
       {
@@ -54,5 +46,6 @@ module.exports = {
   ],
   branches: branchesConfig,
   branch: branch.sync(),
-  repositoryUrl: "git@github.com:pavelpiha/test-semantic-release.git",
+  // repositoryUrl: "https://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@github.com/pavelpiha/test-semantic-release.git",
+  repositoryUrl: "git@github.com/pavelpiha/test-semantic-release.git",
 };
